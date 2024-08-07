@@ -1,4 +1,4 @@
--- Створення бази даних та вибір її для використання
+-- Creating a database and choosing one to use
 
 CREATE DATABASE BarberShop
 go
